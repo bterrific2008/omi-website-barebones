@@ -1,8 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom'
-import HomePage from './pages/HomePage';
-import NoPage from './pages/NoPage';
-import AboutPage from './pages/AboutPage';
+import { AboutPage, HomePage, NoPage } from './pages/index';
 
 function Main() {
   return (
