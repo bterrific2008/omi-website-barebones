@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom'
 import { AboutPage, HomePage, NoPage } from './pages/index';
 
-function Main(t) {
+function Main() {
   return (
     <main>
       <Switch>
