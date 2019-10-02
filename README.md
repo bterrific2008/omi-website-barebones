@@ -1,6 +1,20 @@
 ## Update this to be about OMI Project Later
 
+![alt text](images/entry.png "App Entry")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Steps for Contributing/Development
+
+1. fork project
+1. git clone forked project
+1. create branch `git checkout -b <branchNameissue#>`
+1. develop
+
+- npm install
+- npm start
+
+push changes and create pull request
 
 ## Available Scripts
 
