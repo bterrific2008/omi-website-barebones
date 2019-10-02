@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^6.5.1",
+    "i18next": "^17.0.17",
+    "i18next-browser-languagedetector": "^3.0.3",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
+    "react-i18next": "^10.13.1",
     "react-router-dom": "^5.1.1",
     "react-scripts": "3.1.2"
   },

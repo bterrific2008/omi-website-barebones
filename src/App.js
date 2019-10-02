@@ -4,11 +4,11 @@ import "./App.css";
 import { Header } from "./components/componentindex";
 import Main from "./Main";
 
-function App() {
+function App({ t }) {
   return (
     <div>
       <Header />
-      <Main />
+      <Main t/>
     </div>
   );
 }
